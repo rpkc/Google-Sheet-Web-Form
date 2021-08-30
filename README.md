@@ -1,5 +1,5 @@
 # WebForm
-A webform backend for static sites using Google sheet
+A database for Webforms of Static sites using Google Sheet
 
 
 ## Steps
