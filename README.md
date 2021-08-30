@@ -13,7 +13,7 @@ Save Web/HTML Form Data to Google Sheets
 <script src="Relative/path/to/WebForm.js"></script>  <!-- Inside <head> -->
 ```
 ```html
-<form method="post" autocomplete="off" name="contact">
+<form method="post" autocomplete="off" name=<FORM_NAME>>
       <input type="email" title="Type your email address" id="email" name="Email" placeholder="Your Email Address" required>
       <textarea id="message" title="Type your Message" name="Message" placeholder="Your Message ..." required></textarea>
       <input type="submit" title="Send your Message" value="Send">
