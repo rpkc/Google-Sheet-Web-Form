@@ -1,5 +1,5 @@
 # Google Sheet & Web Form
-Static Web Forms Backed by Google Sheet
+Save Web/HTML Form Data to Google Sheets
 
 
 ## Steps
