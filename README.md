@@ -7,7 +7,7 @@ A webform backend for static sites using Google sheet
 1. go to <b>sheet > Tools > Script Editor</b>
 2. Copy and paste the file [WebForm.gs](https://raw.githubusercontent.com/rpkc/WebForm/main/WebForm.gs) to the Script Editor
 3. Change the `<SHEET_NAME>` with your sheet name 
-4. deploy and copy the <b>deployment id</b>
+4. deploy and copy the `deployment id`
 ### 2. Form (HTML)
 ```html
 <script src="Relative/path/to/WebForm.js"></script>  <!-- Inside <head> -->
