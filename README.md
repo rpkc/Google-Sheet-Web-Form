@@ -20,6 +20,7 @@ A webform backend for static sites using Google sheet
 </form>
 ```
 
+<b>NB:</b> Names of Form Elements should be as same as field name of Google Sheet
 ### 3. Form (JS)
 ```js
 document.addEventListener('submit',e=>{
