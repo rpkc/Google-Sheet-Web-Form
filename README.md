@@ -1,5 +1,5 @@
 # Google Sheet & Web Form
-A database for Webforms of Static sites using Google Sheet
+Static Web Forms Backed by Google Sheet
 
 
 ## Steps
