@@ -1,4 +1,4 @@
-# WebForm
+# Google Sheet & Web Form
 A database for Webforms of Static sites using Google Sheet
 
 
