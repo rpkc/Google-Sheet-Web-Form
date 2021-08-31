@@ -37,7 +37,7 @@ document.addEventListener('submit',e=>{
         })
 ```
 2. Change `<DEPLOYMENT_ID>` and `<FORM_NAME>` with yours
-<br>
+
 #### *NB: 
 1. Names of Form Elements should be as same as field names of Google Sheet<br>
 2. All Names are case sensitive, It is recommended to make them in Block letter
