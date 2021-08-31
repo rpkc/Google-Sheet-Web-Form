@@ -2,14 +2,7 @@
 Save Web/HTML Form Data to Google Sheets
 
 ## Steps
-### 1. Google Sheet
-1. Goto [Google Sheet](https://docs.google.com/spreadsheets/u/0/) and create a blank sheet
-2. Name the Fields as your need in <b>Block Letters</b>
-3. go to <b>Tools > Script Editor</b>
-4. Copy and paste the file [WebForm.gs](https://raw.githubusercontent.com/rpkc/WebForm/main/WebForm.gs) to the Script Editor
-5. Change the `<SHEET_NAME>` with your sheet name 
-6. deploy and copy the `deployment id`
-### 2. Form (HTML)
+### 1. Form (HTML)
 1. Import Script to your HTML File
 ```html
 <script src="Relative/path/to/WebForm.js"></script>  <!-- Inside <head> -->
@@ -24,6 +17,15 @@ Save Web/HTML Form Data to Google Sheets
 ```
 3. Change the `<FORM_NAME>` to your desired name
 4. All Form Elements must have names in <b>Block Letters</b>
+
+### 2. Google Sheet
+1. Goto [Google Sheet](https://docs.google.com/spreadsheets/u/0/) and create a blank sheet
+2. Name the Fields as your needed in your Form in <b>Block Letters</b>
+3. Number of Fields must be as same as the Fields of your Form
+4. go to <b>Tools > Script Editor</b>
+5. Copy and paste the file [WebForm.gs](https://raw.githubusercontent.com/rpkc/WebForm/main/WebForm.gs) to the Script Editor
+6. Change the `<SHEET_NAME>` with your sheet name 
+7. deploy and copy the `deployment id`
 
 ### 3. Form (JS)
 1. Add the Script to Your HTML file
