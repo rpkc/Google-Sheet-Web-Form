@@ -1,6 +1,8 @@
 # Google Sheet & WebForm
 Save Web/HTML Form Data to Google Sheets
 
+![GitHub](https://img.shields.io/github/license/rpkc/Google-Sheet-Web-Form?style=plastic)
+
 ## Steps
 ### 1. Form (HTML)
 1. Import Script to your HTML File
