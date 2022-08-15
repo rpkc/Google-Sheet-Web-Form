@@ -27,7 +27,7 @@ Save Web/HTML Form Data to Google Sheets
 4. go to <b>Tools > Script Editor</b>
 5. Copy and paste the file [WebForm.gs](https://raw.githubusercontent.com/rpkc/WebForm/main/WebForm.gs) to the Script Editor
 6. Change the `<SHEET_NAME>` with your sheet name 
-7. deploy and copy the `deployment id`
+7. deploy and copy the `<DEPLOYMENT_ID>`
 
 ### 3. Form (JS)
 1. Add the Script to Your HTML file
