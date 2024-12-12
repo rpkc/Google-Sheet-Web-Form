@@ -40,11 +40,11 @@ document.addEventListener('submit',e=>{
 ```
 2. Change `<DEPLOYMENT_ID>` and `<FORM_NAME>` with yours
 
-#### *NB: 
-1. Names of Form Elements should be as same as field names of Google Sheet<br>
-2. All Names are case sensitive, It is recommended to make them in Block letter
+> [!IMPORTANT]
+> 1. Names of Form Elements should be as same as field names of Google Sheet<br>
+> 2. All Names are case sensitive, It is recommended to make them in Block letter
 <br>
 
-# Caution
-1. There are no Guarantee of Security
-2. There are some [quotas](https://developers.google.com/apps-script/guides/services/quotas#current_quotas) of Google Sheet. So it is not for your next [Big Tech](https://en.wikipedia.org/wiki/Big_Tech) type website
+> [!CAUTION]
+> 1. There are no Guarantee of Security
+> 2. There are some [quotas](https://developers.google.com/apps-script/guides/services/quotas#current_quotas) of Google Sheet. So it is not for your next [Big Tech](https://en.wikipedia.org/wiki/Big_Tech) type website
